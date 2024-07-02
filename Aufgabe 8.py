@@ -8,9 +8,7 @@ def Meine_Funktion():
 
     try:
         Ganzzahl = int(eingabe)
-        print(Ganzzahl)
-
-    except ValueError:
+        print(Gan)
 
 
 Meine_Funktion()
